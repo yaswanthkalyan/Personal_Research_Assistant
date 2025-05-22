@@ -1,6 +1,6 @@
 # 🧠 Personal Research Assistant
 
-An interactive AI-powered research assistant built with **Streamlit**, **LangChain**, and **Claude 3.5 (Anthropic)**. This tool allows you to input any research question and get a structured, source-backed summary — with the ability to download the result as a `.txt` report.
+An interactive AI-powered research assistant built with **Streamlit**, **LangChain**, and **Claude 3.5 (Anthropic)**. This tool allows you to input any research question and get a structured, source-backed summary with the ability to download the result as a `.txt` report.
 
 ---
 
